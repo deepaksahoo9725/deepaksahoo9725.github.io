@@ -16,7 +16,7 @@ particlesJS('green',
   {
     "particles": {
       "number": {
-        "value": 150,
+        "value": 250,
         "density": {
           "enable": true,
           "value_area": 800
@@ -26,7 +26,7 @@ particlesJS('green',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "star",
+        "type": "dot",
         "stroke": {
           "width": 0,
           "color": "#000000"
